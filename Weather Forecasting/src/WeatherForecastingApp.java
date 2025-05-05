@@ -15,7 +15,7 @@ public class WeatherForecastingApp {
     private static JTextField locationField;
     private static JTextArea weatherDisplay;
     private static JButton fetchButton;
-    private static String apikey = "2e0d48cc36df888e488e747731cdd2de";
+    private static String apikey = "2e0d48cc36df888e488e74xxxxxxxx"; //generate own apikey.
 
     private static String fetchWeatherData(String city){
         try {
